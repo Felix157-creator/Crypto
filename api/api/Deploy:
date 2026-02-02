@@ -1,0 +1,3 @@
+cd cryptopro
+npm install
+vercel
